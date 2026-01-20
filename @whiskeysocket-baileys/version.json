@@ -1,0 +1,15 @@
+{
+    "engine":  {
+                   "version":  "26.1.20",
+                   "library":  "baileys",
+                   "minServerJsVersion":  "26.1.20",
+                   "sha256":  "F9D486D002A54D79DC10B4F28550221FF38FBEED524070B97B6E1A4ECAEA5F34",
+                   "size":  14652567
+               },
+    "serverJs":  {
+                     "version":  "26.1.20",
+                     "sha256":  "77260E05002CBE74181D8C5BA981E2C4F28803FA50DDDF7D5F91CFA0C5D01F8B",
+                     "size":  6040
+                 },
+    "created":  "2026-01-20_08-47"
+}
