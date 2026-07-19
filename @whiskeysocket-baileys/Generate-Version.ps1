@@ -1,11 +1,11 @@
-﻿$ErrorActionPreference = "Stop"
+$ErrorActionPreference = "Stop"
 
 $zipFile = "WhatsAppLibrary.zip"
 $jsFile  = "server.js"
 $jsonFile = "version.json"
 
 if (!(Test-Path $zipFile)) {
-    Write-Host "WhatsAppServer.zip not found" -ForegroundColor Red
+    Write-Host "WhatsAppLibrary.zip not found" -ForegroundColor Red
     Read-Host -Prompt "Press Enter to exit..." # Add this here too!
     exit 1
 }
